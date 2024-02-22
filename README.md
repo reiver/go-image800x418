@@ -13,7 +13,9 @@ Online documentation, which includes examples, can be found at: http://godoc.org
 
 ## Examples
 
-Here is an example **img800x418ional-type** that can hold a string:
+Here is an example of creating an 800×418 image using package **img800x418**.
+In this particular example a paletted image is created.
+
 ```golang
 import "github.com/reiver/go-img800x418"
 
