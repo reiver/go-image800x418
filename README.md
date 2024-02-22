@@ -16,7 +16,7 @@ import "github.com/reiver/go-image800x418"
 
 // ...
 
-img := go-image800x418.NewPaletted(palette)
+img := image800x418.NewPaletted(palette)
 ```
 
 ## Import
