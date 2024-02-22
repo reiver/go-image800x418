@@ -2,6 +2,9 @@
 
 Package **image800x418** provides tools for working with images whose width and height are 800×418, for the Go programming language.
 
+800x418 images are popular with what are something called "cards" or "link preview images".
+I.e., the images used with OpenGraph "og:image", Twitter Card "twitter:image", and Farcaster Frames (i.e., Frame Protocol) "fc:frame:image"
+
 ## Documention
 
 Online documentation, which includes examples, can be found at: http://godoc.org/github.com/reiver/go-image800x418
