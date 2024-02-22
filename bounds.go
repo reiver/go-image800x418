@@ -1,4 +1,4 @@
-package image800x418
+package img800x418
 
 import (
 	"image"
